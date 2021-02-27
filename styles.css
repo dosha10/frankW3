@@ -23,3 +23,17 @@
     text-align: center;
     text-transform: uppercase;
 }
+
+.mouse {
+    bottom: 300px;
+    display: inline-block;
+    position: relative;
+    left: 550px;
+}
+
+.logo {
+    display: inline-block;
+    bottom: 750px;
+    position: relative;
+    left: 620px;
+}
