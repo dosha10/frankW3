@@ -1,9 +1,14 @@
+* {
+    margin: 5px;
+    padding: 0;
+}
+
 .img1 {
     width: 100%;
 }
 
 .header1 {
-    bottom: 396px;
+    bottom: 335px;
     color: #fff;
     position: relative;
     text-align: center;
@@ -11,7 +16,7 @@
 }
 
 .paragraph1 {
-    bottom: 390px;
+    bottom: 340px;
     color: #fff;
     position: relative;
     text-align: center;
@@ -19,7 +24,7 @@
 }
 
 .logo-img {
-    bottom: 750px;
+    bottom: 650px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -32,4 +37,17 @@
     margin-left: auto;
     margin-right: auto;
     position: relative;
+}
+
+.header2 {
+    bottom: 250px;
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.paragraph2 {
+    bottom: 250px;
+    position: relative;
+    text-align: center;
 }
