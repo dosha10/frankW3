@@ -4,6 +4,9 @@
 }
 
 .img1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 100%;
 }
 
@@ -48,6 +51,30 @@
 
 .paragraph2 {
     bottom: 250px;
+    position: relative;
+    text-align: center;
+}
+
+.services-img {
+    bottom: 220px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    width: 84%;
+}
+
+.header3 {
+    bottom: 427px;
+    color: #fff;
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.paragraph3 {
+    bottom: 420px;
+    color: #fff;
     position: relative;
     text-align: center;
 }
