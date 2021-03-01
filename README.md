@@ -4,6 +4,7 @@
 This is a web application containing the services offered by Delani studio
 
 ## Live page
+https://determined-babbage-a2bd7a.netlify.app
 
 ## Technologies used
 *[HTML5]
