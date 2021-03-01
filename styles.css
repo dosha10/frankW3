@@ -93,19 +93,60 @@ body {
     text-transform: uppercase;
 }
 
+#design-icon {
+    bottom: 170px;
+    position: relative;
+}
+
+.para1 {
+    bottom: 170px;
+    left: 15px;
+    position: relative;
+}
+
+#dev-icon {
+    bottom: 170px;
+    left: 123px;
+    position: relative;
+}
+
+.para2 {
+    bottom: 170px;
+    position: relative;
+    left: 115px;
+}
+
+#pm-icon {
+    bottom: 177px;
+    left: 252px;
+    position: relative;
+}
+
+.para3 {
+    bottom: 180px;
+    position: relative;
+    left: 220px;
+}
+
 #show-design {
     cursor: pointer;
     display: none;
+    bottom: 180px;
+    position: relative;
 }
 
 #show-development {
     cursor: pointer;
     display: none;
+    bottom: 180px;
+    position: relative;
 }
 
 #show-pm {
     cursor: pointer;
     display: none;
+    bottom: 180px;
+    position: relative;
 }
 
 #hide-design {
@@ -118,4 +159,18 @@ body {
 
 #hide-pm {
     cursor: pointer;
+}
+
+.contact {
+    background: url(images/c_image.jpg);
+    width: 100%;
+}
+
+.form-control:focus,
+.form-control:active {
+    background: transparent;
+}
+
+.form-control {
+    background: transparent;
 }
