@@ -196,9 +196,39 @@ body {
     width: 100%;
 }
 
+.fi-pic {
+    bottom: 800px;
+    left: 15px;
+    position: relative;
+    width: 100%;
+}
+
+.si-pic {
+    left: 350px;
+    position: relative;
+    bottom: 1062px;
+    width: 100%;
+}
+
+.se-pic {
+    bottom: 1323px;
+    left: 685px;
+    position: relative;
+    width: 100%;
+}
+
+.e-pic {
+    bottom: 1585px;
+    left: 1020px;
+    position: relative;
+    width: 100%;
+}
+
 .contact {
     background: url(images/c_image.jpg);
     width: 100%;
+    bottom: 1500px;
+    position: relative;
 }
 
 .form-control:focus,
