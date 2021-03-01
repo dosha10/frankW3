@@ -1,5 +1,5 @@
 * {
-    margin: 5px;
+    margin: 0;
     padding: 0;
 }
 
@@ -7,20 +7,23 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+    object-fit: cover;
     width: 100%;
 }
 
 .header1 {
-    bottom: 335px;
+    bottom: 390px;
     color: #fff;
+    font-family: 'Noto Sans JP', sans-serif;
     position: relative;
     text-align: center;
     text-transform: uppercase;
 }
 
 .paragraph1 {
-    bottom: 340px;
+    bottom: 390px;
     color: #fff;
+    font-family: 'Noto Sans JP', sans-serif;
     position: relative;
     text-align: center;
     text-transform: uppercase;
@@ -43,44 +46,50 @@
 }
 
 .header2 {
-    bottom: 250px;
+    bottom: 220px;
+    font-family: 'Noto Sans JP', sans-serif;
     position: relative;
     text-align: center;
     text-transform: uppercase;
 }
 
 .paragraph2 {
-    bottom: 250px;
+    bottom: 200px;
+    font-family: 'Noto Sans JP', sans-serif;
     position: relative;
     text-align: center;
 }
 
 .services-img {
-    bottom: 220px;
+    bottom: 180px;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    object-fit: cover;
     position: relative;
-    width: 84%;
+    width: 100%;
 }
 
 .header3 {
-    bottom: 427px;
+    bottom: 420px;
     color: #fff;
+    font-family: 'Noto Sans JP', sans-serif;
     position: relative;
     text-align: center;
     text-transform: uppercase;
 }
 
 .paragraph3 {
-    bottom: 420px;
+    bottom: 380px;
     color: #fff;
+    font-family: 'Noto Sans JP', sans-serif;
     position: relative;
     text-align: center;
 }
 
 .header4 {
-    bottom: 300px;
+    bottom: 240px;
+    font-family: 'Noto Sans JP', sans-serif;
     position: relative;
     text-align: center;
     text-transform: uppercase;
