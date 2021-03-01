@@ -1,6 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
 * {
     margin: 0;
     padding: 0;
+}
+
+body {
+    font-family: 'Noto Sans JP', sans-serif;
 }
 
 .background-img {
@@ -14,7 +19,6 @@
 .header1 {
     bottom: 390px;
     color: #fff;
-    font-family: 'Noto Sans JP', sans-serif;
     position: relative;
     text-align: center;
     text-transform: uppercase;
@@ -23,7 +27,6 @@
 .paragraph1 {
     bottom: 390px;
     color: #fff;
-    font-family: 'Noto Sans JP', sans-serif;
     position: relative;
     text-align: center;
     text-transform: uppercase;
@@ -47,7 +50,6 @@
 
 .header2 {
     bottom: 220px;
-    font-family: 'Noto Sans JP', sans-serif;
     position: relative;
     text-align: center;
     text-transform: uppercase;
@@ -55,7 +57,6 @@
 
 .paragraph2 {
     bottom: 200px;
-    font-family: 'Noto Sans JP', sans-serif;
     position: relative;
     text-align: center;
 }
@@ -73,7 +74,6 @@
 .header3 {
     bottom: 420px;
     color: #fff;
-    font-family: 'Noto Sans JP', sans-serif;
     position: relative;
     text-align: center;
     text-transform: uppercase;
@@ -82,15 +82,40 @@
 .paragraph3 {
     bottom: 380px;
     color: #fff;
-    font-family: 'Noto Sans JP', sans-serif;
     position: relative;
     text-align: center;
 }
 
 .header4 {
     bottom: 240px;
-    font-family: 'Noto Sans JP', sans-serif;
     position: relative;
     text-align: center;
     text-transform: uppercase;
+}
+
+#show-design {
+    cursor: pointer;
+    display: none;
+}
+
+#show-development {
+    cursor: pointer;
+    display: none;
+}
+
+#show-pm {
+    cursor: pointer;
+    display: none;
+}
+
+#hide-design {
+    cursor: pointer;
+}
+
+#hide-development {
+    cursor: pointer;
+}
+
+#hide-pm {
+    cursor: pointer;
 }
