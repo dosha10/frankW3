@@ -93,6 +93,13 @@ body {
     text-transform: uppercase;
 }
 
+.header5 {
+    bottom: 75px;
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+}
+
 #design-icon {
     bottom: 170px;
     position: relative;
@@ -106,14 +113,14 @@ body {
 
 #dev-icon {
     bottom: 170px;
-    left: 123px;
+    left: 130px;
     position: relative;
 }
 
 .para2 {
     bottom: 170px;
     position: relative;
-    left: 115px;
+    left: 125px;
 }
 
 #pm-icon {
@@ -159,6 +166,34 @@ body {
 
 #hide-pm {
     cursor: pointer;
+}
+
+.f-pic {
+    bottom: 30px;
+    left: 15px;
+    position: relative;
+    width: 100%;
+}
+
+.s-pic {
+    left: 350px;
+    position: relative;
+    bottom: 292px;
+    width: 100%;
+}
+
+.t-pic {
+    bottom: 553px;
+    left: 685px;
+    position: relative;
+    width: 100%;
+}
+
+.fo-pic {
+    bottom: 815px;
+    left: 1020px;
+    position: relative;
+    width: 100%;
 }
 
 .contact {
