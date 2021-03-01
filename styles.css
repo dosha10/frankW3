@@ -169,6 +169,7 @@ body {
 }
 
 .f-pic {
+    cursor: pointer;
     bottom: 30px;
     left: 15px;
     position: relative;
@@ -176,6 +177,7 @@ body {
 }
 
 .s-pic {
+    cursor: pointer;
     left: 350px;
     position: relative;
     bottom: 292px;
@@ -183,6 +185,7 @@ body {
 }
 
 .t-pic {
+    cursor: pointer;
     bottom: 553px;
     left: 685px;
     position: relative;
@@ -190,6 +193,7 @@ body {
 }
 
 .fo-pic {
+    cursor: pointer;
     bottom: 815px;
     left: 1020px;
     position: relative;
@@ -197,6 +201,7 @@ body {
 }
 
 .fi-pic {
+    cursor: pointer;
     bottom: 800px;
     left: 15px;
     position: relative;
@@ -204,6 +209,7 @@ body {
 }
 
 .si-pic {
+    cursor: pointer;
     left: 350px;
     position: relative;
     bottom: 1062px;
@@ -211,6 +217,7 @@ body {
 }
 
 .se-pic {
+    cursor: pointer;
     bottom: 1323px;
     left: 685px;
     position: relative;
@@ -218,6 +225,7 @@ body {
 }
 
 .e-pic {
+    cursor: pointer;
     bottom: 1585px;
     left: 1020px;
     position: relative;
